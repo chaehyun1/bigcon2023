@@ -10,39 +10,39 @@
 
 ### Goal:
 
-The goal of this project is t
+The goal of this project is to
 
 ### Importance:
 
-Plants 
+project
 
 ### Motivation:
 
-Using 
+project 
 
 ---
 
 ## Problem
 
-- **Image Quality**: 
+- **project**: 
 
 ---
 
 ## Approach
 
-### 1. **Tabular Data Utilization**
+### 1. **project**
 
 
-### 2. **Image Processing and Modeling**
+### 2. **project**
 
-### **Image Preprocessing**:
+### **project**:
 
 ---
 
 ## Pipeline
 
 
-### 1. **Tabular**:
+### 1. **project**:
 
 
 ---
