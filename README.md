@@ -53,7 +53,7 @@
 
 ---
 
-## Idea Proposal
+## Idea Proposal
 
 
 ### 1. **project**:
